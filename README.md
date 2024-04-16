@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a FullStack web Developer  from Nigeria.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend web applications.<br><br>🌱 Exploring Technical Mobile  Development and Dart Programming Languaeg.<br><br>⚡ In my free time, I Work on Personal Projects, complete courses I offer online ,Listen to music, Spend time with Close ones.<br><br>
+I am a FullStack web Developer  from Nigeria.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend web applications.<br><br>🌱 Exploring Technical Mobile  Development and Dart Programming Language.<br><br>⚡ In my free time, I Work on Personal Projects, complete courses I offer online ,Listen to music, Spend time with Close ones.<br><br>
 
 
 ## 🌐 Socials:
